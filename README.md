@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atalayf
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently studyng data scince using python
+- 🌱 I’m currently studyng data scince using Python
 - 💞️ I’m looking to collaborate on data scince projects that use python
 - 📫 How to reach me: email atalayfa@gmail.com
 
