@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atalayf
+- 👋 Hi, I’m Fatih Atalay
 - 👀 I’m interested in Data Analytics, Data Science and Machine Learning
 - 🌱 I’m currently working as a research assistant @ University of Michigan. 
 - 💞️ I’m looking to collaborate on data science projects that use python
