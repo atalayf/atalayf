@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Fatih Atalay
-- 👀 I’m interested in Data Analytics, Data Science and Machine Learning
-- 🌱 I’m currently working as a research assistant @ University of Michigan. 
-- 💞️ I’m looking to collaborate on data science projects that use python
+- 👀 I’m interested in Data Analytics, Data Engineering and Machine Learning
+- 🌱 I’m currently working as a Data Analyst @ Landis+Gyr. 
 - 📫 How to reach me: email atalayfa@gmail.com
 
 <!---
